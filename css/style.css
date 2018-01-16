@@ -1,0 +1,138 @@
+header {
+	margin-top: 10px;
+}
+
+header .row .logo {
+	margin-top: 10px;
+}
+
+body {
+	margin: 0px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+span,
+div {
+	font-family: 'Roboto', sans-serif !important;
+}
+
+.left_bar .avatar img {
+	width: 100%;
+}
+
+.left_bar .contacts .contact {
+	color: #fff;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	padding: 18px;
+}
+
+.left_bar .contacts .contact .icon_border {
+	border: 2px solid #fff;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	margin-right: 30px;
+}
+
+.left_bar .contacts .contact .icon_border i {
+	font-size: 24px;
+}
+
+.left_bar .contacts .contact .content {
+	font-size: 18px;
+}
+
+.left_bar .contacts .contact.phone {
+	background-color: #1c578f;
+}
+
+.left_bar .contacts .contact.site {
+	background-color: #1c6eb8;
+}
+
+.left_bar .contacts .contact.email {
+	background-color: #1d8bd8;
+}
+
+.left_bar .details {
+	background-color: #e0e0e2;
+}
+
+.left_bar .details .items h3 {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.left_bar .details .items .data {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.left_bar .details .items .data .title {
+	width: 40%;
+}
+
+.left_bar .details .items .data .divider {
+	width: 4%;
+}
+
+.right_bar .user_name {
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #1d9feb;
+	letter-spacing: 8px;
+	font-size: 58px;
+}
+
+.right_bar .experience h3 {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #e0e0e2;
+	margin-left: -15px;
+}
+.experience .fa{
+	color: #00e7ff;
+	font-size: 80px !important;
+}
+.progress{
+	width: 60% !important;
+	height: 10px !important;
+	margin-bottom: 0 !important;
+	background-color: grey !important;
+}
+h4{
+	font-weight:700 !important;
+	font-size: 14px !important;
+}
+h5{
+	text-transform: uppercase;
+	font-size: 14px !important;
+}
+.wrapper{
+
+}
+.flex-one{
+	width: 20%;
+}
